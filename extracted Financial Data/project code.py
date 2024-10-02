@@ -4,7 +4,7 @@ import streamlit as st
 
 # Set your OpenAI API key here
 client = OpenAI(
-    api_key="sk-f9lXeNZemxP3X5L9ylZgRYIsA7JqnZ2pAaJ5fYkFA_T3BlbkFJ7fAPYYj8nEEx25iVO7elJ8CfbKc7-HwsgK1ImkPvcA" 
+    api_key="" 
 )
 
 # Function to call OpenAI's chat API for financial extraction
